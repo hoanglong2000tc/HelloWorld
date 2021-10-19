@@ -1,4 +1,6 @@
 # HelloWorld
 Here is my first repository, for my beginning to Git.
 
-An additional line from branch edit-readme
+additional lines from branch edit-readme
+
+Try to delete somthing...
